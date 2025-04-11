@@ -1,0 +1,12 @@
+{
+  "name": "examen_ursulencostanislav",
+  "version": "1.0.0",
+  "description": "Acest proiect este realizat în cadrul examenului la disciplina Proiectarea aplicațiilor web. Conține o aplicație Node.js cu structură de bază.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
